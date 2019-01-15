@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ElectroGainsRoutine</string>
+    <string name="workouts">WORKOUTS</string>
+    <string name="diets">DIETS</string>
+    <string name="exercises">EXERCISES</string>
+    <string name="play_hard">PLAY HARD!</string>
+    <string name="user">user</string>
+    <string name="pass">pass</string>
+    <string name="out">out</string>
+</resources>
